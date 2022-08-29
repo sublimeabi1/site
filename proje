@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnaSayfa</title>
+</head>
+
+
+<head>
+
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="font.css">
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="#">LOGO</a>
+                </div>
+                <ul>
+                    <li><a href="#" class="active">Ana Sayfa</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCOqpc7DXCPSpoiMfhrYzk5A">YouTube</a></li>
+                    <li><a href="https://discord.gg/codes">Discord</a></li>
+                    <li><a href="https://discord.gg/codes">Destek</a></li>
+                </ul>
+            </div>
+            <div class="center">
+                <h1>Siteye</h1>
+                <h2>Hoşgeldiniz!</h2>
+                <div class="buttons">
+                    <button><a href="https://www.youtube.com/channel/UCOqpc7DXCPSpoiMfhrYzk5A">YouTube</a></button>
+                    <button><a href="https://discord.gg/codes">Discord</a></button>
+                </div>
+
+            </div>
+        </div>
+        
+
+
+        <script>
+
+
+        
+
+
+        </script>
+        
+            
+         
+
+</body>
+</html>
